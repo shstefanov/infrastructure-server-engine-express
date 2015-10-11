@@ -15,11 +15,12 @@
     "jade": "latest",
     "method-override": "latest",
     "morgan": "latest",
-    "serve-favicon": "latest"
+    "serve-favicon": "latest",
+    "underscore": "latest"
   },
 
   "devDependencies": {
-    "underscore": "latest",
+    
     "mocha": "latest"
   },
 
