@@ -4,7 +4,7 @@ module.exports = function(cb){
   
   if(!this.config.http) return cb();
 
-  var _              = require("../infrastructure/node_modules/underscore");
+  var _              = require("underscore");
   var express        = require('express'                );
   var http           = require('http'                   );
   var path           = require('path'                   );
